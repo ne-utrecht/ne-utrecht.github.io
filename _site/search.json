@@ -1,7 +1,7 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
+    "objectID": "output.html",
+    "href": "output.html",
     "title": "About",
     "section": "",
     "text": "About this site"
@@ -12,12 +12,5 @@
     "title": "Nephroepidemiology Utrecht",
     "section": "",
     "text": "Hi! Welcome to the homepage of the nephro-epi research group at the University Medical Center (UMC) Utrecht."
-  },
-  {
-    "objectID": "output.html",
-    "href": "output.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
   }
 ]
