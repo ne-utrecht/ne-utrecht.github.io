@@ -15,6 +15,8 @@ website:
         text: Journals
       - href: team.qmd
         text: Meet the team
+      - href: contact.qmd
+        text: Contact
 
 format:
   html:
