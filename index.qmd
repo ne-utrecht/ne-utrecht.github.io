@@ -1,5 +1,30 @@
 ---
+format:
+    html:
+        toc: false
+        other-links:
+            - text: UMC Utrecht
+              href: https://www.umcutrecht.nl/en
+            - text: UPOD
+              href: https://www.uu.nl/en/research/life-sciences/facilities/facilities-for-clinical-research/utrecht-patient-oriented-database
+            - text: Dept. of Nephrology
+              href: https://www.umcutrecht.nl/nl/specialisme/nefrologie?lang=en
 ---
 
-Hi! Welcome to the homepage of the nephro-epi research group at the University Medical Center (UMC) Utrecht.
+::: {style="font-size: 130%;"}
+Hi! Welcome to the homepage of the nephroepidemiology research group of the University Medical Center (UMC) Utrecht.
+:::
 
+Our team is diverse in its [background and specialties](team.qmd), but shares the same mission: improving  clinical care and outcomes for individuals with chronic kidney disease, those on dialysis, and kidney transplant recipients, using epidemiological methods and big data.
+
+To this end, we use advanced epidemiological and data scientific methods, applied to a wide range of large and granular data sources, including randomised controlled trials, cohort studies, electronic health records, and registries.
+
+We are located at the UMC Utrecht. Our team is embedded in the Department of Nephrology and Hypertension and in Utrecht Patient Oriented Database (UPOD) of the Central Diagnostics Laboratory.
+
+::: {.column-margin}
+![UMC Utrecht](https://upload.wikimedia.org/wikipedia/commons/b/be/UMC_Utrecht.jpg){.lightbox}
+:::
+
+This collaboration gives us access both to direct clinical involvement and to the high-quality research infrastructure of UPOD.
+
+Want to know more? Check out our [currently running projects](projects.qmd) and [previous output](output.qmd).

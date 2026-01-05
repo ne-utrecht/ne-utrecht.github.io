@@ -2,21 +2,36 @@ project:
   type: website
 
 website:
-  title: "Nephroepidemiology Utrecht"
+  title: "NE Utrecht"
   navbar:
     logo: images/creat_cafe.png
     left:
-      - href: index.qmd
-        text: Home
+      - href: team.qmd
+        text: Meet the team
+      - href: projects.qmd
+        text: Projects
       - href: output.qmd
         text: Output
     right:
-      - href: journals.qmd
-        text: Journals
-      - href: team.qmd
-        text: Meet the team
+      - href: resources.qmd
+        text: Resources
       - href: contact.qmd
         text: Contact
+  back-to-top-navigation: true
+
+  sidebar:
+    - title: "Resources"
+      style: "docked"
+      contents:
+        - resources.qmd
+        - journals.qmd
+
+  announcement: 
+    icon: info-circle
+    dismissable: true
+    content: "**NB** - this website is in active development; any information may not be final"
+    type: primary
+    position: below-navbar
 
 format:
   html:

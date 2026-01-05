@@ -1,0 +1,63 @@
+We are a diverse group of researchers, who all bring our own specialties and skills that complement the team.
+
+### Principal investigator
+:::: {.columns}
+::: {.column width ="50%"}
+[**Robin W. M. Vernooij**, PhD]{style="font-size: 120%;"}\
+[*ORCID: [0000-0001-5734-4566](https://orcid.org/0000-0001-5734-4566)*]{style="font-size: 90%;"}
+
+![](headshots/rwmv.jpeg){.lightbox width=60%}
+
+[Robin is an assistant professor at the UMC Utrecht, and spearheads this research group. He received his PhD on improving guideline methodology and reporting from the Universitat Autònoma de Barcelona (Spain). Having previously worked at Cochrane and the Dutch Cancer Registry, and currently working as epidemiologist at the Dutch Kidney Registry, Robin's academic work is strengthened by ample experience in registry research and evidence synthesis.]{style="font-size: 80%;"}
+:::
+::::
+
+### Postdocs
+:::: {.columns}
+::: {.column width ="50%"}
+[**Roemer J. Janse**, PhD]{style="font-size: 120%;"}\
+[*ORCID: [0000-0003-0059-872X](https://orcid.org/0000-0003-0059-872X)*]{style="font-size: 90%;"}
+
+![](headshots/rjj.jpg){.lightbox width=60%}
+
+[Roemer is a clinical epidemiologist in the team, working on the interplay of nephrology, immunology, and virology in kidney transplantation recipients. He completed his BSc in Medicine and afterwards finished his PhD on causal inference and prediction modelling in people with CKD, at the Leiden University Medical Center (The Netherlands) and Karolinska Institutet (Sweden). Besides his clinical projects, he provides epidemiological and programming support.]{style="font-size: 80%;"}
+:::
+::::
+
+### PhD students
+:::: {.columns}
+::: {.column width ="50%"}
+[**Cindy P. Porras**, MD]{style="font-size: 120%;"}\
+[*ORCID: [0000-0001-7692-9164](https://orcid.org/0000-0001-7692-9164)*]{style="font-size: 90%;"}
+
+:::
+
+::: {.column width ="50%"}
+[**Julia M.T. Colombijn**]{style="font-size: 120%;"}\
+[*ORCID: [0000-0002-9022-5937](https://orcid.org/0000-0002-9022-5937)*]{style="font-size: 90%;"}
+
+:::
+::::
+
+:::: {.columns}
+::: {.column width ="50%"}
+[**Denise M.J. Veltkamp**, MD]{style="font-size: 120%;"}\
+[*ORCID: [0000-0001-9914-7827](https://orcid.org/0000-0001-9914-7827)*]{style="font-size: 90%;"}
+
+:::
+
+::: {.column width ="50%"}
+[**Sanne Roos**, MD]{style="font-size: 120%;"}\
+[*ORCID: [0009-0004-7225-8542](https://orcid.org/0009-0004-7225-8542)*]{style="font-size: 90%;"}
+
+:::
+::::
+
+:::: {.columns}
+::: {.column width ="50%"}
+[**Ellis Oortwijn**, MSc]{style="font-size: 120%;"}\
+[*ORCID: [0009-0004-5917-8716](https://orcid.org/0009-0004-5917-8716)*]{style="font-size: 90%;"}
+
+:::
+
+::::
