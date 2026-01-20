@@ -78,7 +78,7 @@ We are a diverse group of researchers, who all bring our own specialties and ski
 [**Sanne Roos**]{style="font-size: 120%;"}\
 [*ORCID: [0009-0004-7225-8542](https://orcid.org/0009-0004-7225-8542)*]{style="font-size: 90%;"}
 
-[Sanne is a medical doctor, doing her PhD on haemodiafiltration. Not only is she investigating the possible mechanisms through which haemodiafiltraiton improves survival; she is also working to assess the effect of haemodiafiltration in a real-world population and obtain individualised estimates of its effect over haemodialysis.]{style="font-size: 80%;"}
+[Sanne is a medical doctor, doing her PhD on haemodiafiltration. Not only is she investigating the possible mechanisms through which haemodiafiltraiton improves survival; she is also working to assess the effect of haemodiafiltration in a real-world population and obtain individualised estimates of its effect over haemodialysis. Prior to her PhD, she already obtained experience in dialysis research, studying the effects of incremental dialysis.]{style="font-size: 80%;"}
 :::
 ::::
 
