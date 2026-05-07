@@ -22,6 +22,41 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
+/* CSS for syntax highlighting */
+html { -webkit-text-size-adjust: 100%; }
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+  }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+}
 </style>
 
 
@@ -89,6 +124,7 @@ ul.task-list li input[type="checkbox"] {
 <h1 class="title">Going to the ERA congress 2026</h1>
   <div class="quarto-categories">
     <div class="quarto-category">Conference</div>
+    <div class="quarto-category">Talks</div>
   </div>
   </div>
 
@@ -218,18 +254,36 @@ ul.task-list li input[type="checkbox"] {
 <td>Friday, June 5<sup>th</sup></td>
 <td>Kidney Transplantation</td>
 <td>17:15-18:15</td>
-<td>17:15-17:21</td>
+<td>17:1</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>5-17:21</td>
 <td>Focussed Oral Room 12</td>
 <td>Robin</td>
 <td><em>Establishment of the Utrecht Transplant Cohort: A Dynamic Registry of Kidney Transplant Recipients</em></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 </tbody>
 </table>
-<p>We will see you there?</p>
+<p>Will we see you there?</p>
 <p>Cheers!</p>
 <p>The U-KREAT team</p>
+<p>…</p>
+<section id="this-posts-r-trick" class="level4">
+<h4 class="anchored" data-anchor-id="this-posts-r-trick">This post’s R-trick: %&lt;&gt;%</h4>
+<p>When programming within the Tidyverse, we often use the pipe operator (<code>%&gt;%</code>) that allows us to write efficient pipelines. To assign the output of that pipeline to some object, we often use the structure</p>
+<div class="sourceCode" id="cb1"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a>data <span class="ot">&lt;-</span> data <span class="sc">%&gt;%</span> pipeline</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<p><code>%&gt;%</code> is defined in <code>{magrittr}</code> and imported by the Tidyverse. However, if we import <code>{magrittr}</code>, we also get access to <code>%&lt;&gt;%</code>. This is a useful pipe, is it summarises the above structure:</p>
+<div class="sourceCode" id="cb2"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a>data <span class="sc">%&lt;&gt;%</span> pipeline</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<p>It’s a nice shorthand and looks cool. Happy coding!</p>
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
