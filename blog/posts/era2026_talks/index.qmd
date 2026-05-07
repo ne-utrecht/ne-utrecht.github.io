@@ -1,0 +1,46 @@
+---
+title: "Going to the ERA congress 2026"
+author: "Roemer J. Janse"
+date: "2026-05-07"
+categories: [Conference, Talks]
+image: era26.png
+---
+
+Hullo!
+
+Good news; U-KREAT is travelling by train and plane to attend the European Renal Association's 63^rd^ congress in Glasgow! We'll not only be catching up with our colleagues, but also hosting several talks. Interested? Check us out in the Research Zone, at the Focussed Orals, and on the Main Stage. Below an overview of the planning:
+
+|Day|Session|Session time|Exact time|Location|Speaker|Topic|
+|-|---|--|--|--|--|------|
+|All days|e-Posters|08:00- 18:00|*NA*|Research Zone|Ellis|Practice variation in prescribing patterns of cardiorenal medication|
+|Thursday, June 4^th^|Dialysis|08:15- 09:45|09:03- 09:09|Focussed Oral Room 10|Sanne|*Does high-dose hemodiafiltration improve nutritional status compared to high-flux hemodialysis? A post-hoc analysis of the CONVINCE randomized trial*|
+|Thursday, June 4^th^|Dialysis|11:15- 12:45|11:21- 11:27|Focussed Oral Room 9|Sanne|*Survival of Dutch patients on dialysis has improved slightly over time*|
+|Thursday, June 4^th^|Dialysis|11:15- 12:45|11:27- 11:33|Focussed Oral Room 9|Robin|*Systemic Exposure to Microplastics and Nanoplastics During Hemodialysis: Quantification and Clinical Implication*|
+|Thursday, June 4^th^|Dialysis|11:15- 12:45|12:21- 12:27|Focussed Oral Room 9|Roemer|*Predicting health-related quality of life after initiating dialysis: a prediction model development study*|
+|Thursday, June 4^th^|AKI & Critical Care Nephrology|14:45- 15:45|*TBD*|Focussed Oral Room 13|Denise|*Long-term risk of major adverse cardiac events after acute kidney injury: A systematic review and meta-analysis*|
+|Friday, June 5^th^|AKI & Critical Care Nephrology|08:15- 09:45|08:33- 08:39|Focussed Oral Room 13|Roemer|*What can the patient expect? Development of a prediction model to predict multiple adverse kidney and cardiac outcomes after acute kidney injury*|
+|Friday, June 5^th^|FC14: Smart Dialysis: AI, Data Streams & Beating Intradialytic Hypotension|08:15- 09:45|08:57- 09:09|Carron|Sanne|*Could improved tolerance to ultrafiltration explain the survival benefit of high-dose hemodiafiltration? A post-hoc analysis of the CONVINCE trial*|
+|Friday, June 5^th^|Kidney Transplantation|17:15- 18:15|17:15- 17:21|Focussed Oral Room 12|Robin|*Establishment of the Utrecht Transplant Cohort: A Dynamic Registry of Kidney Transplant Recipients*|
+
+Will we see you there?
+
+Cheers!
+
+The U-KREAT team
+
+...
+
+#### This post's R-trick: %<>%
+When programming within the Tidyverse, we often use the pipe operator (`%>%`) that allows us to write efficient pipelines. To assign the output of that pipeline to some object, we often use the structure
+
+```r
+data <- data %>% pipeline
+```
+
+`%>%` is defined in `{magrittr}` and imported by the Tidyverse. However, if we import `{magrittr}`, we also get access to `%<>%`. This is a useful pipe, as it summarises the above structure:
+
+```r
+data %<>% pipeline
+```
+
+It's a nice shorthand and looks cool. Happy coding!
