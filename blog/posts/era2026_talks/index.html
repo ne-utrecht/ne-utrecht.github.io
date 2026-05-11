@@ -502,7 +502,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <h4 class="anchored" data-anchor-id="this-posts-r-trick">This post’s R-trick: %&lt;&gt;%</h4>
 <p>When programming within the Tidyverse, we often use the pipe operator (<code>%&gt;%</code>) that allows us to write efficient pipelines. To assign the output of that pipeline to some object, we often use the structure</p>
 <div class="sourceCode" id="cb1"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a>data <span class="ot">&lt;-</span> data <span class="sc">%&gt;%</span> pipeline</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
-<p><code>%&gt;%</code> is defined in <code>{magrittr}</code> and imported by the Tidyverse. However, if we import <code>{magrittr}</code>, we also get access to <code>%&lt;&gt;%</code>. This is a useful pipe, is it summarises the above structure:</p>
+<p><code>%&gt;%</code> is defined in <code>{magrittr}</code> and imported by the Tidyverse. However, if we import <code>{magrittr}</code>, we also get access to <code>%&lt;&gt;%</code>. This is a useful pipe, as it summarises the above structure:</p>
 <div class="sourceCode" id="cb2"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a>data <span class="sc">%&lt;&gt;%</span> pipeline</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 <p>It’s a nice shorthand and looks cool. Happy coding!</p>
 
