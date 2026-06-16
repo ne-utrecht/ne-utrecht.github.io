@@ -1,0 +1,31 @@
+---
+title: "Going to the ERA congress 2026"
+author: "Roemer J. Janse"
+date: "2026-06-16"
+categories: [Conference]
+image: caricature.jpeg
+---
+
+Hullo again!
+
+A week ago, we wrapped up the 63^rd^ European Renal Association congres in Glasgow. We look back at a succesful midweek in which we were able to connect with colleagues, held interesting discussions in regards to our research, and were visible from the main stage to the research zone.
+
+Looking back, we not only shared interesting insights from our work, but also were able to catch up in person with our collaborators and plant the seeds of promising new collaborations.
+
+And of course, we had a lovely caricature drawn:
+![](caricature.jpeg)
+
+Cheers!
+
+The U-KREAT team
+
+...
+
+#### This post's R-trick: ->
+One of the basic operators of R is <-, the object assignment operator. Although not best practice, you can also flexibly use -> instead. This is sometimes helpful if you are working from the console instead of from a script, and want to quickly store some output. Instead of going to the start of the code (or pipeline) and appending the object operator there, you can just keep on writing:
+
+```r
+data %>% filter(!indicator) -> dat_check
+```
+
+Happy coding!
