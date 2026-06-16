@@ -1,12 +1,12 @@
 [
   {
-    "listing": "/index.html",
+    "listing": "/blog/index.html",
     "items": [
-      "/posts/era2026/index.html",
-      "/posts/era2026_talks/index.html",
-      "/posts/proefschrift_rjj/index.html",
-      "/posts/welkom/index.html",
-      "/posts/welcome/index.html"
+      "/blog/posts/era2026/index.html",
+      "/blog/posts/era2026_talks/index.html",
+      "/blog/posts/proefschrift_rjj/index.html",
+      "/blog/posts/welkom/index.html",
+      "/blog/posts/welcome/index.html"
     ]
   }
 ]
